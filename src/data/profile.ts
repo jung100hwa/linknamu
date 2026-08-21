@@ -7,11 +7,11 @@ export type LinkItem = {
 export const profile = {
   name: "gilyang heo",
   bio: "사람이 힘들어",
-  avatarUrl: "/avatar.svg",
+  avatarUrl: "/profile.png",
 };
 
 export const links: LinkItem[] = [
-  { id: "github", title: "GitHub", url: "https://github.com" },
-  { id: "linkedin", title: "LinkedIn", url: "https://linkedin.com" },
-  { id: "blog", title: "Blog", url: "https://example.com/blog" },
+  { id: "github", title: "GitHub", url: "http://github.com/jung100hwa" },
+  { id: "homepage", title: "홈페이지", url: "http://hershey-is.com/" },
+  { id: "mail", title: "메일주소", url: "mailto:jung100hwa@gmail.com" },
 ];
