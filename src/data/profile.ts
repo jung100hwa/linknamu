@@ -5,8 +5,8 @@ export type LinkItem = {
 };
 
 export const profile = {
-  name: "김클로",
-  bio: "세계 최강 바이브코더",
+  name: "gilyang heo",
+  bio: "사람이 힘들어",
   avatarUrl: "/avatar.svg",
 };
 
